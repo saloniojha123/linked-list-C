@@ -96,7 +96,7 @@ int main()
             printf("The queue is %s\n", (isEmpty() ? "Empty" : "Not Empty"));
             break;
         case 5:
-            printf("\nThis code is executed by Mr. XYZ with Roll No XXXXXX\n");
+            printf("\nThis code is executed by SALONI KUMARI with Roll No 2400320100963\n");
             break;
         default:
             printf("Invalid Choice! Try again\n");

@@ -137,7 +137,7 @@ int main()
             printf("The Double Ended Queue is %s\n", (isFUll() ? "Full" : "Not Full"));
             break;
         case 8:
-            printf("\nThis code is executed by Mr. XYZ with Roll No XXXXXX\n");
+            printf("\nThis code is executed by SALONI KUMARI  with Roll No 2400320100963\n");
             break;
         default:
             printf("Invalid Choice! Try again\n");
